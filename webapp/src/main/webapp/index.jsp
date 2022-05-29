@@ -1,3 +1,3 @@
 <h1> This is CICD Test !! </h1>
 <h1> THIS IS THE DEMO OF JENKINS WITH GITHUB AND DOCKER/DOCKERHUB AND TOMCAT SERVER IN THIS PARTICULAR DEMO</h1>
-<h2> By Basavaraj </h2>
+<h2> By Anurag Jain Makkimane </h2>
